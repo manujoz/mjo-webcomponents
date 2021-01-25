@@ -1,0 +1,14 @@
+{
+  "name": "mjo-webcomponents",
+  "version": "1.0.0",
+  "description": "Polyfills of polymer 3 adapted to work with mjo-polymer.",
+  "keywords": [
+    "Arisman Webs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/manujoz/mjo-webcomponents"
+  },
+  "author": "The Polymer Project Authors",
+  "license": "ISC"
+}
